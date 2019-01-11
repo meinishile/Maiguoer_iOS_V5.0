@@ -1,0 +1,49 @@
+//
+//  SVCWallet-Prefix.pch
+//  SVCWallet
+//
+//  Created by SVC on 2018/3/1.
+//  Copyright © 2018年 SVCWallet. All rights reserved.
+//
+
+#ifndef SVCWallet_Prefix_pch
+#define SVCWallet_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* SVCWallet_Prefix_pch */
+
+#ifdef __OBJC__
+
+// 全局变量
+#import "SVCUIColorTools.h"
+#import "UIConstantDefine.h"
+#import "SVCStandardUIDefine.h"
+#import "SVCGlobalDefine.h"
+#import "SVCUserDefaultDefine.h"
+
+// 工具
+#import "SVCSystemInfoTool.h"
+#import "SVCStringTools.h"
+#import "SVCUIImageTools.h"
+#import "SVCLanguage.h"
+#import "NSDictionary+SetNilStr.h"
+#import "SVCMyProfileManager.h"
+#import "UIView+YYAdd.h"
+#import "UIView+Extension.h"
+#import "UIBarButtonItem+MJ.h"
+
+#import "MBProgressHUD+Add.h"
+#import "MJRefresh.h"
+#import "SVCRefreshGifHeader.h"
+#import "SVCRefreshBackGifFooter.h"
+#import "IQKeyboardManager.h"
+
+// 网络请求
+#import "SVCBaseHttpRequest.h"
+#import "SVCHomePageHttpRequest.h"
+
+
+#endif
+

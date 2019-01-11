@@ -1,0 +1,144 @@
+/* 
+  Localizable.strings
+  SVCWallet
+
+  Created by SVC on 2018/3/9.
+  Copyright © 2018年 SVCWallet. All rights reserved.
+*/
+
+
+// 侧滑.设置
+"wallet.manager" = "管理钱包";
+"intelligent.contract" = "智能合约";
+"terms.use" = "使用条款";
+"about.us" = "关于我们";
+"log.out" = "退出登录";
+"PIN.set" = "PIN设置";
+"Modify.PIN" = "PIN修改";
+
+// 钱包管理
+"current.account" = "当前账户：";
+"current.password" = "当前密码";
+"enter.current.password" = "输入当前登录密码";
+"new.secret" = "新 密 码";
+"more.than.eight.characters" = "8位以上字符";
+"confirm.password" = "确认密码";
+"confirm.change" = "确认修改";
+"change.password" = "修改密码";
+
+
+"language.environment" = "语言环境";
+
+"password.cannot.empty" = "密码不能为空";
+"password.format.not.legal" = "密码格式不合法";
+"new.password.cannot.empty" = "新密码不能为空";
+"do.no.match.new.password" = "新密码不一致";
+"new.password.format.not.legal" = "新密码不能为空";
+
+"login" = "登 录";
+"login1" = "登录";
+"register" = "注 册";
+"account" = "账号";
+"password" = "密码";
+"account.name" = "账 户 名";
+"account.name.tip" = "8位以上字母或数字";
+"enter.password" = "输入密码";
+"enter.new.password.settings" = "请再次输入";
+"create.wallet" = "创建钱包";
+"account.not.legal" = "账号不合法";
+
+"please.enter.SVC.accounts" = "请输入SVC账号";
+"please.enter.password.SVC" = "请输入SVC密码";
+
+
+"card_remarks" = "备注";
+"number" = "数量";
+"poundage" = "手续费";
+"combined" = "合计";
+"no.sending.receiving.records" = "暂无收发记录";
+"no.send.record" = "暂无发送记录";
+"no.receiving.record" = "暂无接收记录";
+"all" = "全部";
+"send" = "发送";
+"receive" = "接收";
+
+"available" = "可用";
+"send.address" = "发送地址";
+"receive.address" = "接收地址";
+"enter.other.account.add" = "输入接收钱包地址";
+"send.number" = "发送数量";
+"number.SVC" = "输入SVC数量";
+"remarks" = "备    注";
+"optional" = "选填";
+"please.enter.billing.address" = "请输入账户地址";
+"please.enter.number.sent" = "请输入发送数量";
+"insufficient.tip" = "余额不足提示";
+"more.than.balance.tip" = "您输入的SVC数量已超过可用数量，请确认后重新输入。";
+"know" = "知道了";
+"sends.SVC" = "发出SVC提示";
+"confirm.address" = "您是否确认发送SVC到以下地址";
+"fees.prompt" = "手续费提示";
+"fees.content" = "您向对方发送%@数量SVC，需支付手续费%@元，是否确认发送？";
+
+"fill.number.receiving.SVC" = "填写接收SVC数量";
+"copy.address" = "复制地址";
+"copy.success" = "复制成功";
+
+"automaticallyScan" = "将二维码/条码放入框内，即可自动扫描";
+
+"use.notice.disclaimer" = "使用须知和免责声明";
+"haveRead.and.agreed" = "我已阅读并同意";
+
+
+// PIN密码
+"enter.old.PIN.confirm" = "请输入旧PIN进行确认";
+"verify.PIN.rollout.SVC" = "设置PIN后，您在转出SVC时将需要验证PIN";
+"PIN.will.not.recover" = "注：PIN码如果遗忘将不可找回";
+"enter.setting.PIN" = "请输入6位数字作为PIN";
+"enter.PIN.confirm.again" = "请再次输入PIN确认";
+"do.no.match.PIN" = "密码不一致";
+"verify.PIN" = "验证PIN";
+"enter.six.digit.PIN" = "请输入6位数PIN";
+
+// 智能合约
+"contract.number" = "合约数量";
+"completed" = "已完成";
+"pending" = "待完成";
+"next.execution.time" = "下次执行时间";
+"amount" = "数额";
+"contract.completed" = "合约已完成";
+"no.smart.contract.record" = "暂无智能合约记录";
+
+
+
+"album" = "相册";
+"back" = "返回";
+"sure" = "确定";
+"sure1" = "确定";
+"cancel" = "取消";
+"loading" = "加载中...";
+"upgrade.prompt" = "升级提示";
+"system.maintenance" = "系统维护中";
+"networkError" = "网络错误";
+"delete" = "删除";
+
+
+"terms.content" = "  SVC钱包是去中心化区块链应用，在您使用之前，请充分了解区块链科技知识，具备合理使用和管理去中心化钱包的基本能力。\n   一、 SVC钱包账户和密码一旦丢失和遗忘将不可找回，请妥善保管好您的账户和密码，您的账户和密码是您拥有钱包的唯一凭证！因您未妥善保管或因您操作不当而造成钱包丢失或被盗的情况，SVC概不负责。\n   二、 如果您从未经授权的第三方获取SVC钱包APP或与本软件名称相同的应用程序，SVC将无法保证软件的安全性，因此造成的损失由您自行承担。\n   三、 使用SVC钱包发送SVC等功能时，您应理解区块链操作“不可撤销”属性，并自行承担因操作失误而导致结果不可逆的损失。\n   四、 您在使用SVC钱包时，您应当遵循有关国家政府、法律法规的要求。";
+"about.us.content" = "SVC Wallet是一款移动端轻钱包APP，通过它能实现SVC的转账、收款和钱包管理，并及时掌握SVC的最新动态。";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

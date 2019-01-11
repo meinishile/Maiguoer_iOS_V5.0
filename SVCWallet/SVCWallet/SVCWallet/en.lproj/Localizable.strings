@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  SVCWallet
+
+  Created by SVC on 2018/3/9.
+  Copyright © 2018年 SVCWallet. All rights reserved.
+*/
+
+
+// 侧滑.设置
+"wallet.manager" = "Management Purse";
+"intelligent.contract" = "Intelligent Contract";
+"terms.use" = "Terms Use";
+"about.us" = "About Us";
+"log.out" = "Log Out";
+"PIN.set" = "PIN Set";
+"Modify.PIN" = "PIN Modify";
+
+// 钱包管理
+"current.account" = "Current account:";
+"current.password" = "Current Password";
+"enter.current.password" = "Enter the current password";
+"new.secret" = "New Password";
+"more.than.eight.characters" = "More than eight characters";
+"confirm.password" = "Confirm Password";
+"confirm.change" = "Confirm Change";
+"change.password" = "Change the password";
+
+
+"language.environment" = "Language Environment";
+
+"password.cannot.empty" = "Password cannot be empty";
+"password.format.not.legal" = "Password format is not legal";
+"new.password.cannot.empty" = "The new password cannot be empty";
+"do.no.match.new.password" = "Do not match the new password";
+"new.password.format.not.legal" = "New Password format is not legal";
+
+"login" = "Login";
+"login1" = "Login";
+"register" = "Register";
+"account" = "Account";
+"password" = "Password";
+"account.name" = "Account name";
+"account.name.tip" = "Eight or more letters or Numbers";
+"enter.password" = "Enter password";
+"enter.new.password.settings" = "Please input again";
+"create.wallet" = "Create Wallet";
+"account.not.legal" = "Account is not legal";
+
+"please.enter.SVC.accounts" = "Please enter the SVC accounts";
+"please.enter.password.SVC" = "Enter the password for SVC";
+
+"card_remarks" = "Remark";
+"number" = "QTY";
+"poundage" = "FEE";
+"combined" = "TOT";
+"no.sending.receiving.records" = "No sending and receiving records";
+"no.send.record" = "No send record";
+"no.receiving.record" = "No receiving record";
+"all" = "All";
+"send" = "Send";
+"receive" = "Receive";
+
+"available" = "Available";
+"send.address" = "Send address";
+"receive.address" = "Receive address";
+"enter.other.account.add" = "Input to receive the wallet address";
+"send.number" = "Send the number";
+"number.SVC" = "Number of SVC";
+"remarks" = "Remark";
+"optional" = "Optional";
+"please.enter.billing.address" = "Please enter the billing address";
+"please.enter.number.sent" = "Please enter the number sent";
+"insufficient.tip" = "Lack of balance";
+"more.than.balance.tip" = "You input number exceeds the number of SVC is available, please confirm and re-enter.";
+"know" = "Know";
+"sends.SVC" = "Sends SVC prompt";
+"confirm.address" = "If you confirm send the SVC to the following address";
+"fees.prompt" = "Fees prompt";
+"fees.content" = "You send the other number %@ SVC, need to pay handling charge $%@, delivery confirmation?";
+
+"fill.number.receiving.SVC" = "Fill in the number receiving SVC";
+"copy.address" = "Copy the address";
+"copy.success" = "Copy success";
+
+"automaticallyScan" = "Align QR Code/barcode within frame to scan";
+
+"use.notice.disclaimer" = "Use of instructions and disclaimers";
+"haveRead.and.agreed" = "I have read and agreed";
+
+
+
+// PIN密码
+"enter.old.PIN.confirm" = "Please enter the old PIN to confirm";
+"verify.PIN.rollout.SVC" = "After set the PIN, you will need to verify PIN when roll-out SVC";
+"PIN.will.not.recover" = "Note: the PIN if forgotten will not recover";
+"enter.setting.PIN" = "Please enter the 6 digit number as a PIN";
+"enter.PIN.confirm.again" = "Please enter the PIN to confirm again";
+"do.no.match.PIN" = "Passwords don't match";
+"verify.PIN" = "Verify PIN";
+"enter.six.digit.PIN" = "Please enter the 6 digit PIN";
+
+// 智能合约
+"contract.number" = "Contract Num";
+"completed" = "Completed";
+"pending" = "Pending";
+"next.execution.time" = "Next Time";
+"amount" = "Amount";
+"contract.completed" = "Contract Completed";
+"no.smart.contract.record" = "No smart contract record";
+
+
+
+"album" = "Album";
+"back" = "Back";
+"sure" = "Confirm";
+"sure1" = "Confirm";
+"cancel" = "Cancel";
+"loading" = "Loading...";
+"upgrade.prompt" = "Upgrade prompt";
+"system.maintenance" = "In the system maintenance";
+"networkError" = "Network Error";
+"delete" = "Delete";
+
+"terms.content" = "  SVC Wallet is to go to the central block chain application, before you use, please fully understand the block chain science and technology knowledge, with reasonable use and management of the basic ability to central wallet.\n   I. SVC wallet account and password once lost and forgotten will not be found, please take good care of your account and password, your account and password is the only proof of your wallet!SVC is not responsible for the loss or theft of your wallet due to your improper custody or mishandling.\n   II. If you obtain a SVC Wallet app or an application with the same name as the software from an unauthorized third party, SVC will not be able to guarantee the security of the software, and therefore the loss is at your own risk.\n   III. When using SVC wallets to send features such as SVC, you should understand the “irrevocable” attribute of a block chain operation and bear the loss of irreversible results as a result of an operational error.\n   IV. When you use the SVC wallet, you should follow the requirements of the relevant national government, laws and regulations.";
+"about.us.content" = "SVC Wallet is a mobile side light wallet app, through which the transfer, collection and management of SVC can be realized, and the latest developments of SVC can be grasped in a timely manner.";
+
+
+
+
+
+
+
+
+
+
+
